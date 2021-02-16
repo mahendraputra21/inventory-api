@@ -1,1 +1,1 @@
-please restore this db to MSSQL Server
+please restore Inventor.bak to MSSQL Server
