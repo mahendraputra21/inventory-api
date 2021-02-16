@@ -1,1 +1,1 @@
-please restore Inventor.bak to MSSQL Server
+please restore Inventory.bak to MSSQL Server
