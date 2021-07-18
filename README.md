@@ -1,5 +1,5 @@
 # InventoryAPI [CRUD Restful using ASP.Net Core 3.1 with JWT Authorization]
-This repository contains the inventory management REST service, built with ASP.NET Core 3.1 and Entity Framework 3.1 to illustrate creating REST API to performing CRUD actions and, how to create JWT token and secure API.
+This repository contains the inventory management REST service, built with ASP.NET Core 3.1 and Entity Framework 3.1 to illustrate creating REST API to performing CRUD actions and, how to create JWT token and secure API. please remember this API using sql server database if you want to use another database such as maria db or sqlite you need to configure it as well, thanks.
 
 ## Prerequisites
 
